@@ -1,4 +1,4 @@
-# Javascript_Ile_Hazirlanmi-_Bir_Bilgilendirme_Sayfasi
+# Javascript_Ile_Hazirlanmis_Bir_Bilgilendirme_Sayfasi
 
 ## Içerik
 >Bu sayfada kullanıcıdan girişte kendini tanıtması istenmekte ve ardından gün saat bilgileri güzel bir mesaj ile kullanıcıya iletilmektedir
