@@ -7,4 +7,4 @@
 
 ## Ön Gösterim
 
-![Öngösterim]([image_url](https://github.com/Bedirhankucukal/Javascript_Ile_Hazirlanmis_Bir_Bilgilendirme_Sayfasi/blob/main/img/Öngösterim.PNG)https://github.com/Bedirhankucukal/Javascript_Ile_Hazirlanmis_Bir_Bilgilendirme_Sayfasi/blob/main/img/Öngösterim.PNG)
+![Öngösterim](img/Öngösterim.PNG)
